@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- DUI -->
+    <project path="external/DUI" name="LineageDUI/android_external_DUI" revision="dui-o" />
+    <project path="packages/apps/DUI-Settings" name="LineageDUI/android_packages_apps_DUI-Settings" revision="dui-o" />
+
+</manifest>
