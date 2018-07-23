@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- DUI -->
+    <project path="external/DUtils" name="LineageDUI/android_external_DUtils" revision="dui-m" />
+    <project path="packages/apps/DUI" name="LineageDUI/android_packages_apps_DUI" revision="dui-m" />
+
+</manifest>
