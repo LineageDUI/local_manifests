@@ -2,7 +2,7 @@
 <manifest>
 
     <!-- DUI -->
-    <project path="external/DUI" name="LineageDUI/android_external_DUI" revision="dui-o" />
-    <project path="packages/apps/DUI-Settings" name="LineageDUI/android_packages_apps_DUI-Settings" revision="dui-o" />
+    <project path="external/DUI" name="LineageDUI/android_external_DUI" revision="lineage-15.1" />
+    <project path="packages/apps/DUI-Settings" name="LineageDUI/android_packages_apps_DUI-Settings" revision="lineage-15.1" />
 
 </manifest>
